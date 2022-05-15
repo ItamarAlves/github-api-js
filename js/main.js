@@ -1,4 +1,4 @@
-options = {headers : {"Authorization" : "token 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"}}
+options = {headers : {"Authorization" : "token "}}
 
 async function buscarIndex() {
     await buscar(null);
